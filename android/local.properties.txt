@@ -1,0 +1,1 @@
+sdk.dir = /Users/Harmanpreet/Library/Android/sdk
